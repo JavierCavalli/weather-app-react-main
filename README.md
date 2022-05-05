@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built With: 
+
+1. React
+2. useState() hook
+3. OpenWeather API
+4. Axios
+5. CSS
+
+## Demo: 
+
+https://legendary-monstera-67e0ff.netlify.app/
+
+![image](https://i.ibb.co/VQZ5dXD/weather-app.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
