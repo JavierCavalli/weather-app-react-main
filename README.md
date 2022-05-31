@@ -5,10 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Built With: 
 
 1. React
-2. useState() hook
-3. OpenWeather API
-4. Axios
-5. CSS
+2. OpenWeather API
+3. Axios
+4. CSS
 
 ## Demo: 
 
