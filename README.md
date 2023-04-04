@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# App Clima
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto de react para probar llamadas a api con axios y openweather API.
 
 ## Built With: 
 
